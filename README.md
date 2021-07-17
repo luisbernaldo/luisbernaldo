@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @luisbernaldo
 - 👀 I’m interested in Diseño Gráfico y web.
 - 🌱 I’m currently learning  Javascript
-- 📫 How to reach me ...
+- 📫 How to reach me :
+- <br>
 Teléfono:6554644481<br>
 E-mail:18luis2001@gmail.com <br>
 linkedin.com/in/luis-bernaldo-de-quirós-nieto-66a344205
