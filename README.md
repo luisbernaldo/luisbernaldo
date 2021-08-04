@@ -5,7 +5,7 @@
 - <br>
 Teléfono:6554644481<br>
 E-mail:18luis2001@gmail.com <br>
-linkedin.com/in/luis-bernaldo-de-quirós-nieto-66a344205
+
 
 <!---
 luisbernaldo/luisbernaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
