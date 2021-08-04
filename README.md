@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning  Javascript
 - 📫 How to reach me :
 - <br>
-Teléfono:6554644481<br>
 E-mail:18luis2001@gmail.com <br>
 
 
