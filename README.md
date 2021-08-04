@@ -2,7 +2,6 @@
 - 👀 I’m interested in Diseño Gráfico y web.
 - 🌱 I’m currently learning  Javascript
 - 📫 How to reach me :
-- <br>
 E-mail:18luis2001@gmail.com <br>
 
 
